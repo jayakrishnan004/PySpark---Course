@@ -1,5 +1,8 @@
 # PySpark---Course
 Done a course on PySpark from linkedin learning.  
+This course helped me to understand and experience how large amounts of data can be processed efficiently. Got a better understanding of PySpark, the Python API for Apache Spark, which enables distributed processing of large datasets.
+
+During this course, I explored PySpark fundamentals, working with DataFrames, filtering and transforming data, handling aggregations, joining datasets, and understanding how these operations fit into data pipeline development.
 Datasets Used -
 1. https://drive.google.com/file/d/1sTd8x-RT6yOls_6-h4qPlVNtpCtbKrjN/view?usp=sharing
 2. https://drive.google.com/file/d/1LUNwb0vif4Z9FbaoJAFaMtLiO9AvowBO/view?usp=sharing
